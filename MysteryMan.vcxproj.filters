@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Imgui\imgui.cpp">
+      <Filter>Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Imgui\imgui_draw.cpp">
+      <Filter>Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Imgui\imgui_impl_dx9.cpp">
+      <Filter>Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Imgui\imgui_impl_win32.cpp">
+      <Filter>Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Imgui\imgui_widgets.cpp">
+      <Filter>Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="MysteryMan.cpp">
+      <Filter>SDK</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="offsets.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="xstring.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="ud.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="Skicript.hpp">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="miau.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="Print.hpp">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="FVector.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="icons1.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="Keybind.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="callspoof.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="driver.h">
+      <Filter>Driver</Filter>
+    </ClInclude>
+    <ClInclude Include="controller.h">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="auth.hpp">
+      <Filter>Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="driverdefs.h">
+      <Filter>Driver</Filter>
+    </ClInclude>
+    <ClInclude Include="json.hpp">
+      <Filter>Includes</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Driver">
+      <UniqueIdentifier>{89d64466-55af-43c5-a8af-5eea6a5f52cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Imgui">
+      <UniqueIdentifier>{c3ea2088-a3ad-41bf-b883-8ddf92287b64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SDK">
+      <UniqueIdentifier>{05445105-83eb-4cb6-8ae4-96fc541cb987}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Includes">
+      <UniqueIdentifier>{2c5ae8fa-6c8b-4d27-9352-12ebd06807c2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="libcurl.lib">
+      <Filter>Includes</Filter>
+    </Library>
+    <Library Include="library_x64.lib">
+      <Filter>Includes</Filter>
+    </Library>
+  </ItemGroup>
+</Project>
