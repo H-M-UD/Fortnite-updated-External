@@ -6,4 +6,4 @@ Driver Included in the source too :)
 -------------------------------------------------------------------------------------
 Discord
 -------
-https://discord.gg/dCtPwRrhwh
+https://discord.gg/mysteryman
