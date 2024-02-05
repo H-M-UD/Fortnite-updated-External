@@ -6,5 +6,4 @@ Driver Included in the source too :)
 -------------------------------------------------------------------------------------
 The updated requirements are on our Discord 
 ------  
-https://discord.gg/h-m 
-  
+https://discord.gg/h-m
