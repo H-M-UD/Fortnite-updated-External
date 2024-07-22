@@ -6,5 +6,5 @@ Driver Included in the source too :)
 -------------------------------------------------------------------------------------
 The updated requirements are on our Discord 
 ------  
-[H&M - PASTAA DISCORD
+[H&M - PASTA DISCORD
 ](https://discord.gg/hmpasta)
